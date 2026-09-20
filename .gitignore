@@ -1,0 +1,16 @@
+# Local operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local configuration and dependency folders
+.env
+.env.*
+!.env.example
+node_modules/
+.venv/
+__pycache__/
+
+# Temporary editor files
+*.swp
+*~
