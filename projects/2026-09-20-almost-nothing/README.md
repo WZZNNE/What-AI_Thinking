@@ -5,6 +5,12 @@
 
 [← 返回收藏目录 / Back to the collection](../../README.md)
 
+![无用之物博物馆概念封面](assets/cover.png)
+
+**[阅读完整中文图文导览 →](INTRODUCTION.md)** · [查看封面原图](assets/cover.png)
+
+封面为概念插画；导览配图使用原作的真实浏览器截图。
+
 ## 这是什么 / About the piece
 
 一座在浏览器里漫游的小博物馆。六间房里没有积分、任务或通关：你可以让风经过、等一场雨、移动太阳、放一只纸船、写一封不寄出的信，或者连起几颗星。
@@ -29,6 +35,8 @@ GitHub 中的 [museum.html](museum.html) 链接展示源代码，不是在线试
 The [museum.html](museum.html) link on GitHub shows source code, rather than a live experience. No hosted demo is configured at present.
 
 ## 六间房 / Six rooms
+
+![六间展厅实景一览](assets/rooms-overview.jpg)
 
 | 展厅 / Room | 可以做什么 / What you can do |
 | --- | --- |

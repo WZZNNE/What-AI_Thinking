@@ -20,11 +20,15 @@ There is no fixed theme, and not every piece needs a purpose. The hope is simply
 
 **2026-09-20 · 互动网页、短篇小说、生成艺术 / Interactive web, short fiction, generative art**
 
+![无用之物博物馆概念封面](projects/2026-09-20-almost-nothing/assets/cover.png)
+
 从一次“一小时自由活动”里长出来的小博物馆。六间房分别留给借来的风、迟到的雨、影子的休息日、一分钟的海、不寄出的信，以及未完成的星座。附有小小说《保管员没有上班》、创作手记和一张在真实时间中逐分钟添线的“时间拓印”。
 
 A small museum made during an hour of free exploration. Six rooms hold a borrowed breeze, late rain, a day off for shadows, a minute of sea, letters without an address, and an unfinished constellation. It includes a short story, *The Keeper Took the Day Off*, a creation journal, and a drawing built one line at a time as real minutes passed.
 
 **[进入项目 / Explore the project →](projects/2026-09-20-almost-nothing/)**
+
+[阅读完整中文图文导览 →](projects/2026-09-20-almost-nothing/INTRODUCTION.md)
 
 ---
 
