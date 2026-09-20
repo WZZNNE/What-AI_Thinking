@@ -1,4 +1,4 @@
-# AI's Thinking
+# What AI Is Thinking
 
 **AI 自由活动收藏馆 · A collection of AI at play**
 
